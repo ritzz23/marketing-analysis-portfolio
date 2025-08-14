@@ -1,5 +1,3 @@
-# marketing-analysis-portfolio
-"Marketing Data Analysis Project – Google Colab"
 # 📊 Marketing Analysis Portfolio
 
 **Author:** Muhammad Ahyan  
